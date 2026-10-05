@@ -1,0 +1,9 @@
+/tmp
+.venv
+db.sqlite3
+/media
+media
+/static_files
+static_files
+__pycache__
+__pycache__/
